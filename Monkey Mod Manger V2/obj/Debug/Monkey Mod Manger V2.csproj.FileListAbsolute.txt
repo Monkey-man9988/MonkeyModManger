@@ -1,0 +1,12 @@
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\bin\Debug\Monkey Mod Manger V2.exe.config
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\bin\Debug\Monkey Mod Manger V2.exe
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\bin\Debug\Monkey Mod Manger V2.pdb
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\bin\Debug\Guna.UI2.dll
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey Mod Manger V2.csproj.AssemblyReference.cache
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey_Mod_Manger_V2.Form1.resources
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey_Mod_Manger_V2.Properties.Resources.resources
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey Mod Manger V2.csproj.GenerateResource.cache
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey Mod Manger V2.csproj.CoreCompileInputs.cache
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey M.D3A4904B.Up2Date
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey Mod Manger V2.exe
+C:\Users\prajwal\Desktop\Monkey Mod Manger V2\obj\Debug\Monkey Mod Manger V2.pdb
